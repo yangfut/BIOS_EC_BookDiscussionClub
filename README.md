@@ -2,7 +2,7 @@
 
 Auther: Oakley Zhang, Daniel Tseng, Alvin Lin
 
-# Python/C Solutions for Leetcode
+# Schedule
 
 | Date | Oakley | Daniel | Alvin |
 | :--- | :--- | :--- | :--- | 
