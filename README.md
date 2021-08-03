@@ -2,6 +2,7 @@
 
 Auther: Oakley Zhang, Daniel Tseng, Alvin Lin
 
+HackMD: [Readme](https://hackmd.io/IwM7CCD9QoSIORXw2RO5Dg)
 # Schedule
 
 | Date | Oakley | Daniel | Alvin |
